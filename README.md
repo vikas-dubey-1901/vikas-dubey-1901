@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Pug
+- 🌐 &nbsp; HTML | CSS | JavaScript | Pug
 - 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
 - 🔧 &nbsp; PyCharm | Visual Studio code |it
 
