@@ -12,9 +12,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Pug
-- 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
+- 💻 &nbsp; Java | Adavance Java 
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; PyCharm | Visual Studio code |it
 
 
