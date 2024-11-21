@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently learning JAVA Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp;JAVA developer.
-- 💼 &nbsp;Former Nodejs developer.
 - ✍️ &nbsp; Playing Volleyball and Cricket and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
