@@ -14,7 +14,6 @@
 - 💻 &nbsp; Java | Adavance Java 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; PyCharm | Visual Studio code |it
 
 
 <br>
