@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Adavance Java 
+- 💻 &nbsp; Java | Microservice
 - 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | Firebase 
+- 🛢 &nbsp; Postgress | SQL
 
 
 <br>
