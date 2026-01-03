@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working JAVA backend Developer.
+- 🔭 &nbsp; Currently working as a JAVA backend Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp;JAVA developer.
 - ✍️ &nbsp; Playing Volleyball and Cricket and trying out latest design trends as hobbies/side hustles.
